@@ -1,0 +1,1266 @@
+2017-08-31 12:48:17,912 INFO - root - Initialising application
+2017-08-31 12:48:17,917 INFO - root - Initialise global hotkeys
+2017-08-31 12:48:17,917 INFO - config-manager - No configuration found - creating new one
+2017-08-31 12:48:17,919 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 12:48:17,920 INFO - config-manager - Persisting configuration
+2017-08-31 12:48:17,920 INFO - config-manager - Finished persisting configuration - no errors
+2017-08-31 12:48:17,920 INFO - service - Starting service
+2017-08-31 12:48:17,966 INFO - interface - XRecord interface thread starting
+2017-08-31 12:48:17,966 INFO - service - Service now marked as running
+2017-08-31 12:48:17,992 INFO - root - Displaying configuration window
+2017-08-31 12:48:18,179 INFO - root - Entering main()
+2017-08-31 12:48:44,857 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 12:50:01,576 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 12:50:01,576 INFO - config-manager - Persisting configuration
+2017-08-31 12:50:01,576 INFO - config-manager - Backing up existing config file
+2017-08-31 12:50:01,577 INFO - config-manager - Finished persisting configuration - no errors
+2017-08-31 12:51:11,411 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 12:51:14,664 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:51:14,672 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:51:49,909 INFO - root - Displaying configuration window
+2017-08-31 12:52:35,033 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 12:52:36,940 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:52:36,942 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:52:38,392 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:52:38,394 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:52:38,604 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:52:38,606 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:52:39,298 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:52:39,300 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:52:39,464 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:52:39,471 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:52:39,625 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:52:39,630 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:52:39,765 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:52:39,768 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:52:43,713 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:52:43,717 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:52:44,215 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:52:44,217 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:52:44,244 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:52:44,247 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:52:44,273 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:52:44,277 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:52:44,306 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:52:44,314 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:52:44,337 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:52:44,342 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:52:44,367 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:52:44,372 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:52:44,396 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:52:44,403 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:52:44,426 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:52:44,433 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:52:44,457 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:52:44,464 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:52:44,489 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:52:44,494 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:52:44,517 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:52:44,525 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:52:44,549 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:52:44,557 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:52:44,582 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:52:44,589 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:52:44,610 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:52:44,615 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:52:44,640 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:52:44,644 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:52:44,671 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:52:44,675 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:52:44,700 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:52:44,703 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:52:44,862 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:52:44,867 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:52:45,025 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:52:45,029 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:52:45,178 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:52:45,181 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:52:45,307 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:52:45,309 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:52:45,643 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:52:45,646 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:52:45,849 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:52:45,855 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:52:46,032 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:52:46,039 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:53:17,015 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 12:53:18,857 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:53:18,859 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:53:18,860 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:53:19,628 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:53:19,631 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:53:19,632 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:53:20,335 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:53:20,338 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:53:20,339 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:53:21,034 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:53:21,036 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:53:21,038 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:53:21,244 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:53:21,246 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:53:21,247 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:53:25,499 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:53:25,502 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:53:25,503 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:53:25,766 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:53:25,768 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:53:25,770 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:53:25,960 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:53:25,966 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:53:25,967 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:53:28,510 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:53:28,514 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:53:28,515 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 578, in __sendString
+    self.__checkWorkaroundNeeded()
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 863, in __checkWorkaroundNeeded
+    w = self.app.configManager.workAroundApps
+AttributeError: ConfigManager instance has no attribute 'workAroundApps'
+2017-08-31 12:53:41,454 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 12:53:43,277 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:53:43,278 ERROR - interface - Error in X event loop thread
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 116, in __eventLoop
+    method(*args)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 500, in __sendStringClipboard
+    self.__fillClipboard(string)
+  File "/usr/lib/python2.7/dist-packages/autokey/interface.py", line 537, in __fillClipboard
+    self.clipBoard.set_text(string.encode("utf-8"))
+TypeError: Gtk.Clipboard.set_text() takes exactly 3 arguments (2 given)
+2017-08-31 12:53:44,041 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:54:20,337 INFO - root - Initialising application
+2017-08-31 12:54:20,342 INFO - root - Initialise global hotkeys
+2017-08-31 12:54:20,342 INFO - config-manager - Loading config from existing file: /home/mattmayfield/.config/autokey/autokey.json
+2017-08-31 12:54:20,343 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 12:54:20,344 INFO - config-manager - Successfully loaded configuration
+2017-08-31 12:54:20,344 INFO - service - Starting service
+2017-08-31 12:54:20,387 INFO - interface - XRecord interface thread starting
+2017-08-31 12:54:20,388 INFO - service - Service now marked as running
+2017-08-31 12:54:20,414 INFO - root - Displaying configuration window
+2017-08-31 12:54:20,596 INFO - root - Entering main()
+2017-08-31 12:54:26,773 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 12:54:26,773 INFO - config-manager - Persisting configuration
+2017-08-31 12:54:26,773 INFO - config-manager - Backing up existing config file
+2017-08-31 12:54:26,774 INFO - config-manager - Finished persisting configuration - no errors
+2017-08-31 12:54:30,021 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 12:54:30,022 INFO - config-manager - Persisting configuration
+2017-08-31 12:54:30,022 INFO - config-manager - Backing up existing config file
+2017-08-31 12:54:30,023 INFO - config-manager - Finished persisting configuration - no errors
+2017-08-31 12:54:45,399 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 12:54:45,400 INFO - config-manager - Persisting configuration
+2017-08-31 12:54:45,400 INFO - config-manager - Backing up existing config file
+2017-08-31 12:54:45,401 INFO - config-manager - Finished persisting configuration - no errors
+2017-08-31 12:55:20,002 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 12:55:20,002 INFO - config-manager - Persisting configuration
+2017-08-31 12:55:20,003 INFO - config-manager - Backing up existing config file
+2017-08-31 12:55:20,004 INFO - config-manager - Finished persisting configuration - no errors
+2017-08-31 12:55:24,603 INFO - root - Displaying configuration window
+2017-08-31 12:55:29,071 INFO - root - Shutting down
+2017-08-31 12:55:29,072 INFO - service - Service shutting down
+2017-08-31 12:55:29,932 INFO - config-manager - Persisting configuration
+2017-08-31 12:55:29,932 INFO - config-manager - Backing up existing config file
+2017-08-31 12:55:29,933 INFO - config-manager - Finished persisting configuration - no errors
+2017-08-31 12:55:30,074 INFO - inotify - Shutting down file monitor
+2017-08-31 12:55:32,219 INFO - root - Initialising application
+2017-08-31 12:55:32,223 INFO - root - Initialise global hotkeys
+2017-08-31 12:55:32,223 INFO - config-manager - Loading config from existing file: /home/mattmayfield/.config/autokey/autokey.json
+2017-08-31 12:55:32,224 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 12:55:32,224 INFO - config-manager - Successfully loaded configuration
+2017-08-31 12:55:32,224 INFO - config-manager - No configuration found - creating new one
+2017-08-31 12:55:32,226 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 12:55:32,226 INFO - config-manager - Persisting configuration
+2017-08-31 12:55:32,226 INFO - config-manager - Backing up existing config file
+2017-08-31 12:55:32,227 INFO - config-manager - Finished persisting configuration - no errors
+2017-08-31 12:55:32,227 INFO - service - Starting service
+2017-08-31 12:55:32,255 INFO - interface - XRecord interface thread starting
+2017-08-31 12:55:32,256 INFO - service - Service now marked as running
+2017-08-31 12:55:32,281 INFO - root - Displaying configuration window
+2017-08-31 12:55:32,444 INFO - root - Entering main()
+2017-08-31 12:55:57,663 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 12:56:20,627 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 12:56:31,064 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:56:53,853 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 12:57:02,577 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 12:57:02,577 INFO - config-manager - Persisting configuration
+2017-08-31 12:57:02,578 INFO - config-manager - Backing up existing config file
+2017-08-31 12:57:02,580 INFO - config-manager - Finished persisting configuration - no errors
+2017-08-31 12:57:17,005 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 12:57:19,674 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:57:21,284 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:57:21,649 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:57:22,018 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:57:22,234 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:57:22,386 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:57:22,569 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:57:22,696 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:57:22,984 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:57:23,256 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:57:23,355 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:57:23,515 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:57:23,590 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:57:23,709 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:57:23,794 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:57:24,101 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:57:24,376 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:57:24,577 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:57:24,657 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:57:25,699 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:57:25,922 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:57:50,087 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 12:57:50,984 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:57:53,699 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:57:57,779 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:58:04,635 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:58:05,095 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:58:06,824 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:58:07,261 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:58:37,772 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:58:39,563 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 12:59:49,245 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 13:00:06,209 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 13:00:15,022 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:00:15,447 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:00:15,868 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:00:16,028 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:00:16,319 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:00:16,494 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:00:17,517 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:00:17,733 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:00:18,063 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:00:18,251 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:00:29,915 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:00:30,486 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:00:30,816 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:01:05,365 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:01:05,760 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:01:05,968 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:01:06,199 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:01:06,384 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:01:06,771 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:01:06,924 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:01:07,159 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:01:07,319 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:02:10,937 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:02:11,166 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:02:11,540 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:02:11,681 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:02:11,941 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:02:12,092 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:02:41,212 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 13:02:50,012 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 13:03:04,314 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:03:04,593 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:03:04,819 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:03:05,005 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:04:19,168 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 13:04:24,066 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 13:05:03,929 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:05:06,670 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:05:42,379 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 13:06:52,694 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:07:57,907 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 13:08:01,823 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:08:05,134 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:08:06,153 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:08:08,484 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:08:11,572 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:10:44,667 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 13:11:07,151 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:11:07,471 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:11:09,891 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 13:13:48,804 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 13:13:55,372 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:13:56,569 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:13:59,500 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:13:59,883 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:14:00,310 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:14:00,713 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:14:01,009 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:14:01,229 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:14:01,815 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:14:02,359 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:14:04,068 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:14:04,381 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:14:04,687 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:14:05,225 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:16:55,475 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:17:13,523 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:17:24,279 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:19:06,875 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:19:09,193 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:19:44,706 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:19:45,111 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:19:45,239 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:19:45,570 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:19:45,704 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:19:46,110 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:19:46,523 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:20:30,752 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:23:04,339 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 13:23:08,918 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:23:09,275 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:23:36,205 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:24:06,318 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 13:24:15,318 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:24:58,755 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 13:25:08,069 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:25:08,234 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:25:08,803 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:25:09,002 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:25:09,600 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:25:09,836 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:26:55,517 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:26:55,965 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:26:56,260 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:26:58,307 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:27:33,358 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:27:59,005 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:31:03,725 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:31:21,801 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:32:46,199 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:33:17,319 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:37:18,321 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:38:35,149 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:38:35,761 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:38:36,284 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:38:37,332 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:38:37,705 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:38:38,242 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:38:38,524 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:38:38,825 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:38:39,114 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:38:46,456 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:38:47,084 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:42:52,344 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:42:52,681 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:42:52,972 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:42:53,190 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:45:57,995 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:45:58,365 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:45:58,672 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:45:58,915 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 13:50:34,062 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:07:00,179 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 14:07:04,323 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:07:04,936 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:07:05,294 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:07:05,512 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:07:06,342 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:07:06,789 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:07:07,074 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:07:07,369 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:07:07,757 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:07:22,096 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 14:07:38,481 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 14:07:41,151 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:07:41,415 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:07:41,741 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:07:41,901 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:07:42,201 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:07:42,350 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:07:42,502 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:07:42,825 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:07:42,981 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:07:43,123 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:07:44,642 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:07:44,920 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:07:45,151 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:07:45,616 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:07:45,807 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:07:45,986 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:07:50,395 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 14:07:50,396 INFO - config-manager - Persisting configuration
+2017-08-31 14:07:50,396 INFO - config-manager - Backing up existing config file
+2017-08-31 14:07:50,399 INFO - config-manager - Finished persisting configuration - no errors
+2017-08-31 14:07:53,167 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 14:07:53,167 INFO - config-manager - Persisting configuration
+2017-08-31 14:07:53,168 INFO - config-manager - Backing up existing config file
+2017-08-31 14:07:53,168 INFO - config-manager - Finished persisting configuration - no errors
+2017-08-31 14:07:58,570 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:07:58,885 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:12:06,269 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:12:06,745 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:12:07,036 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:12:07,207 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:12:07,370 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:12:07,719 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:12:07,981 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:12:08,270 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:12:35,897 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:12:37,563 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:12:40,683 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:12:43,124 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:12:49,399 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:12:51,493 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:13:00,496 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:19:00,689 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 14:19:00,689 INFO - config-manager - Persisting configuration
+2017-08-31 14:19:00,690 INFO - config-manager - Backing up existing config file
+2017-08-31 14:19:00,690 INFO - config-manager - Finished persisting configuration - no errors
+2017-08-31 14:24:11,088 INFO - root - Displaying configuration window
+2017-08-31 14:24:55,734 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 14:24:57,808 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:25:14,927 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 14:25:22,095 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 14:25:48,896 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 14:25:52,309 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:26:07,753 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 14:26:07,753 INFO - config-manager - Persisting configuration
+2017-08-31 14:26:07,755 INFO - config-manager - Backing up existing config file
+2017-08-31 14:26:07,756 INFO - config-manager - Finished persisting configuration - no errors
+2017-08-31 14:49:08,753 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 14:57:57,541 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 15:06:16,214 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 15:08:45,020 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 15:09:26,809 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 16:17:57,000 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 16:27:23,591 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 16:51:07,588 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 17:04:25,727 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 17:05:03,578 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 17:10:17,348 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 18:47:59,008 INFO - root - Displaying configuration window
+2017-08-31 18:49:07,555 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 18:51:06,436 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 18:51:13,021 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 18:51:13,021 INFO - config-manager - Persisting configuration
+2017-08-31 18:51:13,109 INFO - config-manager - Backing up existing config file
+2017-08-31 18:51:13,120 INFO - config-manager - Finished persisting configuration - no errors
+2017-08-31 18:51:26,075 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 18:51:33,408 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 18:52:03,189 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 18:52:09,506 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 18:52:11,610 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 18:52:11,611 INFO - config-manager - Persisting configuration
+2017-08-31 18:52:11,611 INFO - config-manager - Backing up existing config file
+2017-08-31 18:52:11,614 INFO - config-manager - Finished persisting configuration - no errors
+2017-08-31 18:52:16,631 INFO - root - Shutting down
+2017-08-31 18:52:16,632 INFO - service - Service shutting down
+2017-08-31 18:52:17,462 INFO - config-manager - Persisting configuration
+2017-08-31 18:52:17,463 INFO - config-manager - Backing up existing config file
+2017-08-31 18:52:17,464 INFO - config-manager - Finished persisting configuration - no errors
+2017-08-31 18:52:18,466 INFO - inotify - Shutting down file monitor
+2017-08-31 18:52:57,141 INFO - root - Initialising application
+2017-08-31 18:52:57,147 INFO - root - Initialise global hotkeys
+2017-08-31 18:52:57,147 INFO - config-manager - Loading config from existing file: /home/mattmayfield/.config/autokey/autokey.json
+2017-08-31 18:52:57,317 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 18:52:57,317 INFO - config-manager - Successfully loaded configuration
+2017-08-31 18:52:57,318 INFO - service - Starting service
+2017-08-31 18:52:57,348 INFO - interface - XRecord interface thread starting
+2017-08-31 18:52:57,349 INFO - service - Service now marked as running
+2017-08-31 18:52:57,382 INFO - root - Displaying configuration window
+2017-08-31 18:52:57,564 INFO - root - Entering main()
+2017-08-31 18:52:59,331 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 18:52:59,332 INFO - config-manager - Persisting configuration
+2017-08-31 18:52:59,332 INFO - config-manager - Backing up existing config file
+2017-08-31 18:52:59,332 INFO - config-manager - Finished persisting configuration - no errors
+2017-08-31 18:53:02,430 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 18:53:03,056 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 18:53:03,470 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 18:53:06,740 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 18:53:07,471 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 18:53:38,775 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 19:01:16,182 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 19:05:47,543 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 19:09:05,627 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 19:09:05,871 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 19:09:06,145 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 19:09:25,402 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 19:09:26,599 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 19:09:55,575 INFO - root - Displaying configuration window
+2017-08-31 19:10:57,183 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 19:10:57,184 INFO - config-manager - Persisting configuration
+2017-08-31 19:10:57,184 INFO - config-manager - Backing up existing config file
+2017-08-31 19:10:57,185 INFO - config-manager - Finished persisting configuration - no errors
+2017-08-31 19:10:59,220 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 19:10:59,220 INFO - config-manager - Persisting configuration
+2017-08-31 19:10:59,221 INFO - config-manager - Backing up existing config file
+2017-08-31 19:10:59,221 INFO - config-manager - Finished persisting configuration - no errors
+2017-08-31 19:11:51,359 INFO - root - Initialising application
+2017-08-31 19:11:51,534 INFO - root - Initialise global hotkeys
+2017-08-31 19:11:51,736 INFO - config-manager - Loading config from existing file: /home/mattmayfield/.config/autokey/autokey.json
+2017-08-31 19:11:52,419 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 19:11:52,419 INFO - config-manager - Successfully loaded configuration
+2017-08-31 19:11:52,419 INFO - service - Starting service
+2017-08-31 19:11:52,449 INFO - interface - XRecord interface thread starting
+2017-08-31 19:11:52,450 INFO - service - Service now marked as running
+2017-08-31 19:11:52,475 INFO - root - Entering main()
+2017-08-31 19:18:49,939 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 19:18:50,281 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 19:18:50,506 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 19:18:50,817 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 19:18:51,121 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 19:22:04,982 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 19:24:15,422 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 19:26:05,006 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 19:31:08,986 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 19:33:19,579 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 19:34:07,551 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 19:39:52,194 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 19:41:46,090 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 19:46:53,442 INFO - root - Initialising application
+2017-08-31 19:46:53,460 INFO - root - Initialise global hotkeys
+2017-08-31 19:46:53,461 INFO - config-manager - Loading config from existing file: /home/mattmayfield/.config/autokey/autokey.json
+2017-08-31 19:46:53,463 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 19:46:53,463 INFO - config-manager - Successfully loaded configuration
+2017-08-31 19:46:53,463 INFO - service - Starting service
+2017-08-31 19:46:53,597 INFO - interface - XRecord interface thread starting
+2017-08-31 19:46:53,598 INFO - service - Service now marked as running
+2017-08-31 19:46:53,648 INFO - root - Entering main()
+2017-08-31 19:55:02,911 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 19:55:12,675 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 19:55:14,412 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 20:01:23,293 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 20:01:27,099 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 20:01:32,529 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 20:16:16,166 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 20:18:07,585 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 20:18:24,667 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 20:24:42,658 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 20:24:44,672 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 20:24:45,754 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 20:24:46,394 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 20:30:46,966 INFO - root - Initialising application
+2017-08-31 20:30:46,974 INFO - root - Initialise global hotkeys
+2017-08-31 20:30:46,974 INFO - config-manager - Loading config from existing file: /home/mattmayfield/.config/autokey/autokey.json
+2017-08-31 20:30:46,976 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-08-31 20:30:46,976 INFO - config-manager - Successfully loaded configuration
+2017-08-31 20:30:46,976 INFO - service - Starting service
+2017-08-31 20:30:47,033 INFO - interface - XRecord interface thread starting
+2017-08-31 20:30:47,039 INFO - service - Service now marked as running
+2017-08-31 20:30:47,086 INFO - root - Entering main()
+2017-08-31 20:37:30,612 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 20:53:54,891 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 20:54:01,700 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 20:59:18,338 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 20:59:45,008 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 21:10:24,867 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 21:22:33,202 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-08-31 21:50:43,345 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-03 15:07:14,940 INFO - root - Initialising application
+2017-09-03 15:07:15,094 INFO - root - Initialise global hotkeys
+2017-09-03 15:07:15,095 INFO - config-manager - Loading config from existing file: /home/mattmayfield/.config/autokey/autokey.json
+2017-09-03 15:07:16,516 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-03 15:07:16,516 INFO - config-manager - Successfully loaded configuration
+2017-09-03 15:07:16,516 INFO - service - Starting service
+2017-09-03 15:07:16,541 INFO - interface - XRecord interface thread starting
+2017-09-03 15:07:16,541 INFO - service - Service now marked as running
+2017-09-03 15:07:16,567 INFO - root - Entering main()
+2017-09-03 15:07:27,199 INFO - root - Displaying configuration window
+2017-09-03 15:07:56,582 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-03 15:07:56,583 INFO - config-manager - Persisting configuration
+2017-09-03 15:07:56,583 INFO - config-manager - Backing up existing config file
+2017-09-03 15:07:56,584 INFO - config-manager - Finished persisting configuration - no errors
+2017-09-03 15:10:27,997 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-03 15:10:49,335 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-03 15:10:52,054 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-03 15:10:57,945 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-03 20:41:59,513 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-03 20:49:32,246 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-03 21:07:23,255 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-03 21:28:52,567 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 00:52:33,611 INFO - root - Shutting down
+2017-09-04 00:52:33,611 INFO - service - Service shutting down
+2017-09-04 00:52:34,027 INFO - config-manager - Persisting configuration
+2017-09-04 00:52:34,113 INFO - config-manager - Backing up existing config file
+2017-09-04 00:52:34,119 INFO - config-manager - Finished persisting configuration - no errors
+2017-09-04 00:52:35,121 INFO - inotify - Shutting down file monitor
+2017-09-04 01:04:27,753 INFO - root - Initialising application
+2017-09-04 01:04:27,769 INFO - root - Initialise global hotkeys
+2017-09-04 01:04:27,769 INFO - config-manager - Loading config from existing file: /home/mattmayfield/.config/autokey/autokey.json
+2017-09-04 01:04:28,592 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-04 01:04:28,593 INFO - config-manager - Successfully loaded configuration
+2017-09-04 01:04:28,593 INFO - service - Starting service
+2017-09-04 01:04:28,640 INFO - interface - XRecord interface thread starting
+2017-09-04 01:04:28,641 INFO - service - Service now marked as running
+2017-09-04 01:04:28,675 INFO - root - Entering main()
+2017-09-04 01:06:07,021 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 01:06:07,268 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 01:06:07,689 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 01:06:07,909 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 01:06:09,503 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 01:06:09,897 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 01:06:10,304 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 01:06:14,122 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 01:06:14,564 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 01:06:14,910 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 01:06:17,669 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 01:06:18,415 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 01:07:11,150 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 01:07:11,800 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 01:07:12,171 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 01:07:12,481 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 01:07:20,064 INFO - root - Displaying configuration window
+2017-09-04 01:08:35,337 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-04 01:08:35,338 INFO - config-manager - Persisting configuration
+2017-09-04 01:08:35,338 INFO - config-manager - Backing up existing config file
+2017-09-04 01:08:35,339 INFO - config-manager - Finished persisting configuration - no errors
+2017-09-04 01:08:43,898 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-04 01:08:43,898 INFO - config-manager - Persisting configuration
+2017-09-04 01:08:43,898 INFO - config-manager - Backing up existing config file
+2017-09-04 01:08:43,899 INFO - config-manager - Finished persisting configuration - no errors
+2017-09-04 01:08:55,232 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 01:08:55,602 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 01:08:55,902 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 01:08:56,030 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 01:09:19,695 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 01:20:25,659 INFO - root - Shutting down
+2017-09-04 01:20:25,660 INFO - service - Service shutting down
+2017-09-04 01:20:26,527 INFO - config-manager - Persisting configuration
+2017-09-04 01:20:26,527 INFO - config-manager - Backing up existing config file
+2017-09-04 01:20:26,528 INFO - config-manager - Finished persisting configuration - no errors
+2017-09-04 01:20:26,661 INFO - inotify - Shutting down file monitor
+2017-09-04 01:20:30,405 INFO - root - Initialising application
+2017-09-04 01:20:30,411 INFO - root - Initialise global hotkeys
+2017-09-04 01:20:30,411 INFO - config-manager - Loading config from existing file: /home/mattmayfield/.config/autokey/autokey.json
+2017-09-04 01:20:30,413 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-04 01:20:30,414 INFO - config-manager - Successfully loaded configuration
+2017-09-04 01:20:30,414 INFO - service - Starting service
+2017-09-04 01:20:30,440 INFO - interface - XRecord interface thread starting
+2017-09-04 01:20:30,440 INFO - service - Service now marked as running
+2017-09-04 01:20:30,470 INFO - root - Displaying configuration window
+2017-09-04 01:20:30,623 INFO - root - Entering main()
+2017-09-04 01:20:33,298 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-04 01:20:33,298 INFO - config-manager - Persisting configuration
+2017-09-04 01:20:33,298 INFO - config-manager - Backing up existing config file
+2017-09-04 01:20:33,299 INFO - config-manager - Finished persisting configuration - no errors
+2017-09-04 01:46:00,472 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 01:46:00,863 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 01:46:11,090 INFO - root - Displaying configuration window
+2017-09-04 01:46:21,492 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-04 01:46:21,493 INFO - config-manager - Persisting configuration
+2017-09-04 01:46:21,493 INFO - config-manager - Backing up existing config file
+2017-09-04 01:46:21,493 INFO - config-manager - Finished persisting configuration - no errors
+2017-09-04 01:46:44,281 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 01:46:44,612 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 01:46:44,890 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 01:46:45,081 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 01:48:50,542 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 01:48:59,708 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 01:48:59,931 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 01:49:00,107 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 01:50:58,341 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 01:50:58,622 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 01:50:59,123 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 01:50:59,440 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 01:57:42,655 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 09:18:25,982 INFO - root - Initialising application
+2017-09-04 09:18:26,046 INFO - root - Initialise global hotkeys
+2017-09-04 09:18:26,046 INFO - config-manager - Loading config from existing file: /home/mattmayfield/.config/autokey/autokey.json
+2017-09-04 09:18:26,377 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-04 09:18:26,377 INFO - config-manager - Successfully loaded configuration
+2017-09-04 09:18:26,377 INFO - service - Starting service
+2017-09-04 09:18:26,405 INFO - interface - XRecord interface thread starting
+2017-09-04 09:18:26,406 INFO - service - Service now marked as running
+2017-09-04 09:18:26,432 INFO - root - Entering main()
+2017-09-04 09:31:07,817 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 09:31:08,380 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 09:31:08,517 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 09:31:08,660 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 09:31:08,757 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 09:31:08,866 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 09:31:12,877 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 09:34:16,109 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 09:34:16,409 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 09:34:16,641 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 09:35:08,378 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 09:37:54,058 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 09:37:54,278 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 09:46:44,145 INFO - root - Initialising application
+2017-09-04 09:46:44,159 INFO - root - Initialise global hotkeys
+2017-09-04 09:46:44,159 INFO - config-manager - Loading config from existing file: /home/mattmayfield/.config/autokey/autokey.json
+2017-09-04 09:46:44,161 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-04 09:46:44,161 INFO - config-manager - Successfully loaded configuration
+2017-09-04 09:46:44,161 INFO - service - Starting service
+2017-09-04 09:46:44,214 INFO - interface - XRecord interface thread starting
+2017-09-04 09:46:44,222 INFO - service - Service now marked as running
+2017-09-04 09:46:44,255 INFO - root - Entering main()
+2017-09-04 10:04:52,634 INFO - root - Displaying configuration window
+2017-09-04 10:05:21,124 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-04 10:05:22,624 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 10:05:39,399 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-04 10:05:40,913 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 10:05:44,015 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 10:05:44,997 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 10:05:55,313 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-04 10:05:55,313 INFO - config-manager - Persisting configuration
+2017-09-04 10:05:55,313 INFO - config-manager - Backing up existing config file
+2017-09-04 10:05:55,315 INFO - config-manager - Finished persisting configuration - no errors
+2017-09-04 10:06:10,582 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-04 10:06:10,583 INFO - config-manager - Persisting configuration
+2017-09-04 10:06:10,583 INFO - config-manager - Backing up existing config file
+2017-09-04 10:06:10,583 INFO - config-manager - Finished persisting configuration - no errors
+2017-09-04 10:22:38,597 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 10:38:09,855 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 10:38:44,388 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 10:40:25,469 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 10:41:03,518 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 10:49:01,212 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 10:50:15,486 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 11:20:29,912 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 11:22:08,234 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 11:23:48,761 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 11:49:27,701 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 11:49:27,942 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 11:49:34,434 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 11:49:34,705 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 11:49:35,003 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 11:49:35,324 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 11:58:26,639 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 11:58:26,912 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 11:59:45,652 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 12:00:02,603 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 12:04:49,698 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 12:04:50,800 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 12:04:53,490 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 12:04:53,663 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 12:07:56,048 INFO - root - Initialising application
+2017-09-04 12:07:56,054 INFO - root - Initialise global hotkeys
+2017-09-04 12:07:56,054 INFO - config-manager - Loading config from existing file: /home/mattmayfield/.config/autokey/autokey.json
+2017-09-04 12:07:56,056 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-04 12:07:56,056 INFO - config-manager - Successfully loaded configuration
+2017-09-04 12:07:56,056 INFO - service - Starting service
+2017-09-04 12:07:56,095 INFO - interface - XRecord interface thread starting
+2017-09-04 12:07:56,096 INFO - service - Service now marked as running
+2017-09-04 12:07:56,133 INFO - root - Entering main()
+2017-09-04 12:12:59,203 INFO - root - Initialising application
+2017-09-04 12:12:59,216 INFO - root - Initialise global hotkeys
+2017-09-04 12:12:59,216 INFO - config-manager - Loading config from existing file: /home/mattmayfield/.config/autokey/autokey.json
+2017-09-04 12:12:59,218 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-04 12:12:59,219 INFO - config-manager - Successfully loaded configuration
+2017-09-04 12:12:59,219 INFO - service - Starting service
+2017-09-04 12:12:59,277 INFO - interface - XRecord interface thread starting
+2017-09-04 12:12:59,282 INFO - service - Service now marked as running
+2017-09-04 12:12:59,317 INFO - root - Entering main()
+2017-09-04 12:31:48,067 INFO - root - Initialising application
+2017-09-04 12:31:48,081 INFO - root - Initialise global hotkeys
+2017-09-04 12:31:48,081 INFO - config-manager - Loading config from existing file: /home/mattmayfield/.config/autokey/autokey.json
+2017-09-04 12:31:48,083 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-04 12:31:48,083 INFO - config-manager - Successfully loaded configuration
+2017-09-04 12:31:48,083 INFO - service - Starting service
+2017-09-04 12:31:48,128 INFO - interface - XRecord interface thread starting
+2017-09-04 12:31:48,129 INFO - service - Service now marked as running
+2017-09-04 12:31:48,159 INFO - root - Entering main()
+2017-09-04 12:40:41,835 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 12:45:28,187 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 12:45:32,602 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 12:50:25,000 INFO - root - Initialising application
+2017-09-04 12:50:25,020 INFO - root - Initialise global hotkeys
+2017-09-04 12:50:25,020 INFO - config-manager - Loading config from existing file: /home/mattmayfield/.config/autokey/autokey.json
+2017-09-04 12:50:25,022 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-04 12:50:25,022 INFO - config-manager - Successfully loaded configuration
+2017-09-04 12:50:25,023 INFO - service - Starting service
+2017-09-04 12:50:25,072 INFO - interface - XRecord interface thread starting
+2017-09-04 12:50:25,080 INFO - service - Service now marked as running
+2017-09-04 12:50:25,116 INFO - root - Entering main()
+2017-09-04 13:08:58,900 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 13:08:59,210 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 13:09:00,842 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 13:22:49,312 INFO - root - Initialising application
+2017-09-04 13:22:49,357 INFO - root - Initialise global hotkeys
+2017-09-04 13:22:49,357 INFO - config-manager - Loading config from existing file: /home/mattmayfield/.config/autokey/autokey.json
+2017-09-04 13:22:49,948 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-04 13:22:49,948 INFO - config-manager - Successfully loaded configuration
+2017-09-04 13:22:49,949 INFO - service - Starting service
+2017-09-04 13:22:49,974 INFO - interface - XRecord interface thread starting
+2017-09-04 13:22:49,974 INFO - service - Service now marked as running
+2017-09-04 13:22:50,004 INFO - root - Entering main()
+2017-09-04 13:23:58,262 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 13:23:58,900 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 13:23:59,211 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 13:31:54,460 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 13:31:56,312 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 13:33:08,930 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 13:33:12,743 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 13:33:14,019 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 13:33:21,012 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 13:38:01,748 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 13:47:48,641 INFO - root - Initialising application
+2017-09-04 13:47:48,670 INFO - root - Initialise global hotkeys
+2017-09-04 13:47:48,670 INFO - config-manager - Loading config from existing file: /home/mattmayfield/.config/autokey/autokey.json
+2017-09-04 13:47:50,021 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-04 13:47:50,021 INFO - config-manager - Successfully loaded configuration
+2017-09-04 13:47:50,021 INFO - service - Starting service
+2017-09-04 13:47:50,054 INFO - interface - XRecord interface thread starting
+2017-09-04 13:47:50,054 INFO - service - Service now marked as running
+2017-09-04 13:47:50,087 INFO - root - Entering main()
+2017-09-04 13:48:21,628 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 13:48:22,046 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 13:48:22,370 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 13:48:24,503 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 13:55:11,846 INFO - root - Displaying configuration window
+2017-09-04 13:55:58,096 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-04 13:56:01,938 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 13:56:02,333 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 13:56:02,643 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 13:56:03,309 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 13:56:03,670 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 13:56:04,121 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 13:56:04,421 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 13:56:04,730 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 13:56:05,114 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 13:56:17,219 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-04 13:56:34,296 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-04 13:56:58,066 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-04 13:57:01,745 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 13:57:02,186 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 13:57:02,861 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 13:57:03,160 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 13:57:03,786 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 13:57:04,066 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 13:57:42,570 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-04 13:57:49,608 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-04 13:58:23,681 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-04 13:58:23,681 INFO - config-manager - Persisting configuration
+2017-09-04 13:58:23,682 INFO - config-manager - Backing up existing config file
+2017-09-04 13:58:23,683 INFO - config-manager - Finished persisting configuration - no errors
+2017-09-04 13:59:14,571 INFO - root - Displaying configuration window
+2017-09-04 13:59:38,057 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 13:59:38,421 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 13:59:38,727 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 13:59:39,584 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 14:00:11,499 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 14:00:12,187 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 14:01:16,079 INFO - root - Shutting down
+2017-09-04 14:01:16,080 INFO - service - Service shutting down
+2017-09-04 14:01:16,367 INFO - config-manager - Persisting configuration
+2017-09-04 14:01:16,367 INFO - config-manager - Backing up existing config file
+2017-09-04 14:01:16,368 INFO - config-manager - Finished persisting configuration - no errors
+2017-09-04 14:01:16,582 INFO - inotify - Shutting down file monitor
+2017-09-04 14:01:36,588 INFO - root - Initialising application
+2017-09-04 14:01:36,593 INFO - root - Initialise global hotkeys
+2017-09-04 14:01:36,593 INFO - config-manager - Loading config from existing file: /home/mattmayfield/.config/autokey/autokey.json
+2017-09-04 14:01:36,595 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-04 14:01:36,596 INFO - config-manager - Successfully loaded configuration
+2017-09-04 14:01:36,596 INFO - service - Starting service
+2017-09-04 14:01:36,638 INFO - interface - XRecord interface thread starting
+2017-09-04 14:01:36,639 INFO - service - Service now marked as running
+2017-09-04 14:01:36,667 INFO - root - Displaying configuration window
+2017-09-04 14:01:36,816 INFO - root - Entering main()
+2017-09-04 14:02:27,255 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-04 14:02:52,407 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-04 14:03:22,894 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-04 14:03:35,550 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 14:03:44,515 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-04 14:03:51,912 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-04 14:04:01,053 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-04 14:04:10,903 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 14:04:11,170 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 14:04:11,385 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 14:04:11,642 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 14:04:15,007 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 14:04:15,335 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 14:04:15,474 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 14:05:40,947 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-04 14:05:40,949 INFO - config-manager - Persisting configuration
+2017-09-04 14:05:40,949 INFO - config-manager - Backing up existing config file
+2017-09-04 14:05:40,950 INFO - config-manager - Finished persisting configuration - no errors
+2017-09-04 14:08:17,520 INFO - root - Displaying configuration window
+2017-09-04 14:09:09,535 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-04 14:09:09,535 INFO - config-manager - Persisting configuration
+2017-09-04 14:09:09,536 INFO - config-manager - Backing up existing config file
+2017-09-04 14:09:09,537 INFO - config-manager - Finished persisting configuration - no errors
+2017-09-04 14:09:33,049 INFO - service - Matched hotkey phrase/script with prompt=False
