@@ -1264,3 +1264,23 @@ TypeError: Gtk.Clipboard.set_text() takes exactly 3 arguments (2 given)
 2017-09-04 14:09:09,536 INFO - config-manager - Backing up existing config file
 2017-09-04 14:09:09,537 INFO - config-manager - Finished persisting configuration - no errors
 2017-09-04 14:09:33,049 INFO - service - Matched hotkey phrase/script with prompt=False
+2017-09-04 14:14:33,554 INFO - root - Shutting down
+2017-09-04 14:14:33,554 INFO - service - Service shutting down
+2017-09-04 14:14:33,682 INFO - config-manager - Persisting configuration
+2017-09-04 14:14:33,682 INFO - config-manager - Backing up existing config file
+2017-09-04 14:14:33,683 INFO - config-manager - Finished persisting configuration - no errors
+2017-09-04 14:14:34,055 INFO - inotify - Shutting down file monitor
+2017-09-04 14:14:44,050 INFO - root - Initialising application
+2017-09-04 14:14:44,055 INFO - root - Initialise global hotkeys
+2017-09-04 14:14:44,056 INFO - config-manager - Loading config from existing file: /home/mattmayfield/.config/autokey/autokey.json
+2017-09-04 14:14:44,058 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-04 14:14:44,058 INFO - config-manager - Successfully loaded configuration
+2017-09-04 14:14:44,058 INFO - service - Starting service
+2017-09-04 14:14:44,101 INFO - interface - XRecord interface thread starting
+2017-09-04 14:14:44,102 INFO - service - Service now marked as running
+2017-09-04 14:14:44,128 INFO - root - Displaying configuration window
+2017-09-04 14:14:44,284 INFO - root - Entering main()
+2017-09-04 14:14:49,401 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2017-09-04 14:14:49,401 INFO - config-manager - Persisting configuration
+2017-09-04 14:14:49,402 INFO - config-manager - Backing up existing config file
+2017-09-04 14:14:49,402 INFO - config-manager - Finished persisting configuration - no errors
