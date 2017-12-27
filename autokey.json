@@ -9,7 +9,7 @@
         "enabled": false
     }, 
     "settings": {
-        "showTrayIcon": true, 
+        "showTrayIcon": false, 
         "sortByUsageCount": true, 
         "scriptGlobals": {}, 
         "undoUsingBackspace": true, 
@@ -19,8 +19,8 @@
         "menuTakesFocus": false, 
         "interfaceType": "XRecord", 
         "windowDefaultSize": [
-            1920, 
-            1056
+            1856, 
+            1024
         ], 
         "showToolbar": true, 
         "serviceRunning": true, 
@@ -30,16 +30,16 @@
             100
         ], 
         "workAroundApps": ".*VirtualBox.*|krdc.Krdc", 
-        "hPanePosition": 484, 
+        "hPanePosition": 468, 
         "isFirstRun": true
     }, 
     "userCodeDir": null, 
     "version": "0.90.4", 
     "configHotkey": {
-        "hotKey": "k", 
+        "hotKey": "a", 
         "modifiers": [
             "<super>"
         ], 
-        "enabled": false
+        "enabled": true
     }
 }
